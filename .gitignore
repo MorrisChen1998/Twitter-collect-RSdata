@@ -1,0 +1,11 @@
+AUTHENTICATE_KEY1
+AUTHENTICATE_KEY2
+ANCESTOR_USERS.json
+
+/liked_history_list/
+/tweet_list/
+/user_list/
+
+/_pycache_/
+/tweet_video/
+/user_profile_photo/
